@@ -30,7 +30,7 @@ Sorry, weather data for 'New York' is not available right now.
 
  Step 1: Define the Function (tool)
 
- import openai
+import openai
 import json
 import os
 
